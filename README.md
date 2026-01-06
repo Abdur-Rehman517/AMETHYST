@@ -1,2 +1,3 @@
 # AMETHYST
-Amethyst is an AI model made by Abdur Rehman and his group Members .  It functions as a Chatbot and is unique with good understanding of what command it is being given
+This project is developed by **Abdurrehman (Bai251041)**, **Mirza Abbas (Bai251079)**, **Muhammad Anas (bai251088)**, **Rouman Khan (bai251051)**, and **Abdullah Gillani (Bai251067)**, and it focuses on an AI chatbot named **Amethyst**. Amethyst is designed to interact with users intelligently by understanding queries and providing helpful, relevant responses, making it useful for tasks such as answering questions, assisting with information, and improving user engagement through automation. The actual implementation of the chatbot can be found in the `src` directory of the given folder, under the name **`Amethyst`**.
+
